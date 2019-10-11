@@ -1,3 +1,4 @@
 hungry=input("Are u hungry")
 if hungry=="y":
    print("Eat samosa") mm
+vgd
